@@ -29,9 +29,7 @@ const Home = ({ name, title }) => {
       <img className="background" src={image} alt="" />
       <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
         <h1>{name}</h1>
-      </div>
-      <div style={{ position: "absolute", top: "10rem", left: "2rem", width: "17rem", color:"#fff" }}>
-        <h2>{title}</h2>
+        <h2 style={{color:"#fff" }}>{title}</h2>
       </div>
       <div style={{ position: "absolute", bottom: "3rem", left: "50%" }}>
         <img src={arrowSvg} style={{ height: "3rem", width: "3rem" }} alt={imageAltText} />
