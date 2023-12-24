@@ -30,7 +30,7 @@ const Home = ({ name, title }) => {
       <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem" }}>
         <h1>{name}</h1>
       </div>
-      <div style={{ position: "absolute", top: "5rem", left: "2rem", width: "17rem", color:"#fff" }}>
+      <div style={{ position: "absolute", top: "10rem", left: "2rem", width: "17rem", color:"#fff" }}>
         <h2>{title}</h2>
       </div>
       <div style={{ position: "absolute", bottom: "3rem", left: "50%" }}>
