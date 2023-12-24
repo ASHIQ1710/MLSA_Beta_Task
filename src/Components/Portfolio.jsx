@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mlsa11.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "blue snow mountains";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft Certified: Azure AI Engineer Associate",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Certified in Microsoft Azure AI Engineer Associate AI-102.",
+    url: "https://www.credly.com/badges/295b38ad-5387-40f0-a6a4-34b98799fbe7/linked_in_profile",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Certified: Azure Fundamentals",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Certified in Microsoft Azure Fundamentals AZ-900.",
+    url: "https://www.credly.com/badges/5de1dd26-7c11-40b4-8629-c11164be40e3/linked_in_profile",
   },
   {
-    title: "My Resume Site",
+    title: "Data Analysis Internship at Cognifyz Technologies",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Performing a comprehensive analysis of a dataset containing restaurant information.",
+    url: "https://github.com/ASHIQ1710/Data-Analysis-Intern-at-Cognifyz-Technologies.git",
   },
   {
     title: "GitHub Codespaces and github.dev",

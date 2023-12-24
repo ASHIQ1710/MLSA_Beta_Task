@@ -16,27 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/mlsa12.jpeg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "orange snow mountains";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a AI/ML student studying at Pragati Engineering College. I fuse academic knowledge with practical expertise as a Microsoft Azure certified professional, Google Cloud Associate Cloud Engineer, and Salesforce certified specialist, contributing to Alpha MLSA's innovative approach in the dynamic field of data science and artificial intelligence";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science-AI/ML Lead at GDSC-PEC",
+  "Alpha MLSA",
+  "Microsoft Azure certified",
+  "Google Cloud Associate Cloud Engineer certified",
+  "Salesforce certified",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a Data Science-AI/ML Lead at GDSC-PEC, I leverage my expertise as a Microsoft Azure certified professional, Google Cloud Associate Cloud Engineer, and Salesforce certified specialist. Contributing to Alpha MLSA, I bring a holistic approach to cutting-edge technologies, driving innovation in the realm of data science and artificial intelligence.";
 
 const About = () => {
   return (
